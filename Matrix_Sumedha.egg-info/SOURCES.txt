@@ -1,0 +1,7 @@
+LICENCE.txt
+setup.py
+Matrix_Sumedha.egg-info/PKG-INFO
+Matrix_Sumedha.egg-info/SOURCES.txt
+Matrix_Sumedha.egg-info/dependency_links.txt
+Matrix_Sumedha.egg-info/top_level.txt
+matrix_calculation/__init__.py
